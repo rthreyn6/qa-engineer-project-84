@@ -1,41 +1,41 @@
 ---
 - summary: |
     Успешная проверка поиска товара по ключевому слову
-  status:
+  status: pass
 
 - summary: |
     Успешная проверка поиска товара по категории 
-  status:
+  status: pass
   
 - summary: |
     Просмотр товаров в интерннет-магазине
-  status:
+  status: pass
 
 - summary: |
     Просмотр информации о товаре
-  status:
+  status: pass
 
 - summary: |
     Добавление товара в корзину из каталога
-  status:
+  status: pass
   
 - summary: |
     Добавление товара в корзину из карточки товара
-  status:
+  status: pass
   
 - summary: |
     Просмотр добавленного товара в корзине
-  status:
+  status: pass
 
 - summary: |
     Проверка смены языка в интернет-магазине
-  status:
+  status: pass
 
 - summary: |
     Проверка перехода из корзины на главную страницу
-  status:
+  status: pass
 
 - summary: |
     Проверка фильтра по цене в диапазоне 1-200
-  status:
+  status: pass
   
