@@ -1,15 +1,12 @@
 ---
-name: Ilona Maskova
-job: QA Engineer
+name: Anastasia Orlova
+job: Student
 level: junior
-email: ilona@hexlet.io
+email: corporaciamonstr@gmail.com
 description: |
-  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
-
-  Текст может быть написан в несколько обзацев
+  Люблю печь хлеб
+  Усидчивая
 skills:
-  - функциональное тестирование
-  - написание багрепортов
-  - Linux
-  - слепая печать
-  - английский язык C1
+  - написание тест-кейсов
+  - DevTools
+  - Git
