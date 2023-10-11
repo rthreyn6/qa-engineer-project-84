@@ -10,7 +10,7 @@ test-cases:
     
   - summary: |
       Просмотр товаров в интернет-магазине
-    status: fail
+    status: pass
     
   - summary: |
       Просмотр информации о товаре
