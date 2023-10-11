@@ -9,7 +9,7 @@ test-cases:
     status: pass
     
   - summary: |
-      Просмотр товаров в интерннет-магазине
+      Просмотр товаров в интернет-магазине
     status: fail
     
   - summary: |
